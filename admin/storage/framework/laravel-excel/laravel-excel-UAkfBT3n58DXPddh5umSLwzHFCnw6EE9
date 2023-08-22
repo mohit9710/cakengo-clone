@@ -1,0 +1,4 @@
+"id","category_id","sub_category_id","sub_sub_category_id","meta_title","meta_keyword","title","status","description","offer_amount","main_image","created_at","updated_at"
+"1","3","1",NULL,"Birthday Cake","Birthday Cake","Chocolate Birthday Cake","1","<p>Special Chocolate Cake With Extra Dark Chocolate's.</p>","300","1603433497_cake.jpeg","2020-10-20 16:52:21","2020-10-24 11:42:33"
+"2","11","14",NULL,"Fererro Rocher","Fererro Rocher","Fererro Rocher","1","<p>test product</p>","500","1604309841_cake4.jpeg","2020-11-02 15:07:21","2020-11-02 15:07:21"
+"3","13","15",NULL,"test producta","test producta","test product","1","<p>test product</p>","200","1604313698_cakesngo.jpg","2020-11-02 16:11:38","2020-11-02 16:11:38"
